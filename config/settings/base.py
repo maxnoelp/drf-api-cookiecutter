@@ -86,6 +86,7 @@ THIRD_PARTY_APPS = [
     "ckeditor",
     "filer",
     "easy_thumbnails",
+    "storages",
 ]
 
 LOCAL_APPS = [
